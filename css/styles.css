@@ -7,3 +7,7 @@ p {
     can be specified in %,px or em*/
     font-size: 1.2em;
 }
+
+p.important { /*Chapter 7 - css classes classes are specified by "." */
+    font-size: 1.5em;
+}
