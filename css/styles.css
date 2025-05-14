@@ -3,4 +3,7 @@ p {
     Font-family is a list of fonts for the brower to use. Starting with the main one you want and ends with a generic font to let the browser pick a similiar font,
     if no other fonts are available*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*Chapter 6 font-size
+    can be specified in %,px or em*/
+    font-size: 1.2em;
 }
