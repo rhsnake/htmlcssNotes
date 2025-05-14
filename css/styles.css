@@ -11,3 +11,7 @@ p {
 p.important { /*Chapter 7 - css classes classes are specified by "." */
     font-size: 1.5em;
 }
+
+.special { /*Chapter 8 - classes not tied to element */
+    font-size: 2.5em;
+}
