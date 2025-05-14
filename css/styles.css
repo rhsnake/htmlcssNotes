@@ -28,3 +28,14 @@ https://www.webfx.com/web-design/color-picker for color hex values*/
 .red{
     color: #cc0000;
 }
+
+/*Chapter 13 - spacing
+tells the browser to ADD spacing beyond normal spacing can add a -(minus) to decrease spacing instead
+letter-spacing: space between each letter
+word-spacing: space between each word
+line-height: spacing between each line of text*/
+.spacing { 
+    letter-spacing: 0.1em;
+    word-spacing: 0.1em;
+    line-height: 0.1em;
+}
