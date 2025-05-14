@@ -10,6 +10,9 @@ p {
 
 p.important { /*Chapter 7 - css classes classes are specified by "." */
     font-size: 1.5em;
+    /*Chapter 9 - font-weight
+    Makes the font BOLD. Range from 100 - 900 Works with words as well: lighter,normal,bold,bolder */
+    font-weight: 900;
 }
 
 .special { /*Chapter 8 - classes not tied to element */
