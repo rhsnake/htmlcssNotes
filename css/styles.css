@@ -22,3 +22,9 @@ p.important { /*Chapter 7 - css classes classes are specified by "." */
 .emphasized { /*Chapter 10 - font-style*/
     font-style: italic;
 }
+
+/*Chapter 12 - colors 
+https://www.webfx.com/web-design/color-picker for color hex values*/
+.red{
+    color: #cc0000;
+}
